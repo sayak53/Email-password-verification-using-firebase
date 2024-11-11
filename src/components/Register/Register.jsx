@@ -51,15 +51,11 @@ const Register = () => {
           </label>
           <input
             type="password"
-            placeholder="password"
+            placeholder="Create a new Password"
             className="input input-bordered"
             required
           />
-          <label className="label">
-            <a href="#" className="label-text-alt link link-hover">
-              Forgot password?
-            </a>
-          </label>
+         
         </div>
 
         <div className="form-control mt-6">
